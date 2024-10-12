@@ -1,0 +1,45 @@
+# Websites for Testing Programming Skills and Building Projects
+
+## Coding Challenge Platforms
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [CodeWars](https://www.codewars.com/)
+- [CodeSignal](https://codesignal.com/)
+- [Exercism](https://exercism.io/)
+
+## Project-Based Learning Platforms
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [The Odin Project](https://www.theodinproject.com/)
+- [Codecademy](https://www.codecademy.com/)
+- [Coursera](https://www.coursera.org/)
+- [Udacity](https://www.udacity.com/)
+
+## Resources and Documentation
+- [Mozilla Developer Network (MDN)](https://developer.mozilla.org/)
+- [W3Schools](https://www.w3schools.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [GitHub](https://github.com/)
+- [GitLab](https://gitlab.com/)
+
+## Online IDEs and Code Editors
+- [CodePen](https://codepen.io/)
+- [JSFiddle](https://jsfiddle.net/)
+- [CodeSandbox](https://codesandbox.io/)
+- [Replit](https://replit.com/)
+- [Glitch](https://glitch.com/)
+
+## Community and Collaboration
+- [Reddit Programming Communities](https://www.reddit.com/r/Programming/)
+- [Discord Programming Servers](https://discord.com/)
+- [GitHub Repositories](https://github.com/explore)
+- [Stack Overflow Communities](https://stackoverflow.com/communities)
+
+- [Codeanywhere](https://codeanywhere.com/)
+- [Ideone](https://ideone.com/)
+- [Overapi](https://overapi.com/)
+- [Tutorialspoint Online Compilers](https://www.tutorialspoint.com/codingground.htm)
+- [Cheatography](https://www.cheatography.com/)
+- [OverAPI Cheatsheets](https://overapi.com/cheat-sheets)
+- [GitHub Student Developer Pack](https://education.github.com/pack)
+- [FreeCodeCamp GitHub Repositories](https://github.com/freeCodeCamp)
+- [The Odin Project GitHub Repositories](https://github.com/TheOdinProject)
